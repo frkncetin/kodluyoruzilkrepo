@@ -5,7 +5,7 @@ Bu repo [Kodluyoruz](www.kodluyoruz.org) Git eğitiminde oluşturduğum ilk repo
 ´git clone [https://github.com/frkncetin/kodluyoruzilkrepo.git]´
 # Usage
 Projeyi klonladıktan sonra VSC programında açınız.
-Linux için:
+Linux için;
 ´´´
 cd kodluyoruzilkrepo
 code .
